@@ -242,7 +242,7 @@ body {
     padding-bottom: 94px;
 }
 
-.features-blocks {
+.features {
     display: flex;
     gap: 30px;
     align-items: center;
